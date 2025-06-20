@@ -1,0 +1,7 @@
+"Join Type","Description","Result"
+"INNER JOIN","Rows with matching values in both tables","Only matching rows from both tables"
+"LEFT JOIN","All rows from left table + matched rows from right","All left rows, NULL for right if no match"
+"RIGHT JOIN","All rows from right table + matched rows from left","All right rows, NULL for left if no match"
+"FULL JOIN","All rows with match in either table","All rows from both tables, NULLs where no match"
+"CROSS JOIN","Cartesian product of rows","Every combination of rows from both tables"
+"SELF JOIN","Table joined with itself","Compare rows within the same table"
