@@ -116,9 +116,6 @@ Contributions are welcome! If you'd like to add new topics, improve existing con
 - [MySQL Documentation](https://dev.mysql.com/doc/)
 - [SQL Style Guide](https://www.sqlstyle.guide/)
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🏷️ Tags
 
