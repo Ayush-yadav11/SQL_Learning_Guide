@@ -109,4 +109,22 @@ This query adds a column (`Type`) to indicate whether the person is a customer o
 | UNION     | Yes                | No                  | Distinct combined results         |
 | UNION ALL | No                 | Yes                 | All results, including duplicates |
 
-Next -- [[Strings in SQL]]
+---
+
+## 🔗 Navigation
+
+**📚 [← Back to Main Guide](README.md)**
+
+**Previous Topic:** [← CASE Statements](CASE%20Statement%20in%20SQL.md) | **Next Topic:** [Window Functions →](Window%20Functions%20in%20SQL.md)
+
+### 📖 Complete Learning Path:
+1. [SQL Fundamentals](SQL.md)
+2. [JOINS in SQL](JOINS%20in%20SQL.md)
+3. [String Functions](Strings%20in%20SQL.md)
+4. [Subqueries](Subqueries%20in%20SQL.md)
+5. [CASE Statements](CASE%20Statement%20in%20SQL.md)
+6. **UNION Operations** ← *You are here*
+7. [Window Functions](Window%20Functions%20in%20SQL.md)
+8. [Common Table Expressions (CTEs)](Common%20Table%20Expressions%20(CTEs)%20in%20MySQL.md)
+9. [Stored Procedures](Stored%20Procedures%20in%20SQL.md)
+10. [Temporary Tables](Temporary%20Tables%20in%20SQL.md)

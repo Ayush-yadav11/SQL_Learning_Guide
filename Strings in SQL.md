@@ -99,4 +99,22 @@ Suppose you have the string 'HELLO WORLD':
 - Use **LEFT()** for the start, **RIGHT()** for the end, and **SUBSTRING()** for any position within the string.
 - **SUBSTRING()** is the most flexible, as it can mimic LEFT() and RIGHT() (with the right parameters), but LEFT() and RIGHT() are more concise and readable for their specific purposes[5](https://database.guide/left-vs-substring-in-sql-server-whats-the-difference/)[6](https://www.sqlshack.com/sql-substring-function-and-its-performance-tips/)[7](https://learn.microsoft.com/en-us/archive/technet-wiki/17948.t-sql-right-left-substring-and-charindex-functions).
 
-Next --[[CASE Statement in SQL]]
+---
+
+## 🔗 Navigation
+
+**📚 [← Back to Main Guide](README.md)**
+
+**Previous Topic:** [← JOINS in SQL](JOINS%20in%20SQL.md) | **Next Topic:** [Subqueries →](Subqueries%20in%20SQL.md)
+
+### 📖 Complete Learning Path:
+1. [SQL Fundamentals](SQL.md)
+2. [JOINS in SQL](JOINS%20in%20SQL.md)
+3. **String Functions** ← *You are here*
+4. [Subqueries](Subqueries%20in%20SQL.md)
+5. [CASE Statements](CASE%20Statement%20in%20SQL.md)
+6. [UNION Operations](Unions%20in%20SQL.md)
+7. [Window Functions](Window%20Functions%20in%20SQL.md)
+8. [Common Table Expressions (CTEs)](Common%20Table%20Expressions%20(CTEs)%20in%20MySQL.md)
+9. [Stored Procedures](Stored%20Procedures%20in%20SQL.md)
+10. [Temporary Tables](Temporary%20Tables%20in%20SQL.md)

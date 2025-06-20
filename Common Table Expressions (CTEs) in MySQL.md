@@ -108,4 +108,24 @@ This will return all employees, showing their level in the hierarchy[5](https://
 ---
 
 **In summary:**  
-CTEs in MySQL are a powerful feature for writing cleaner, more maintainable, and more efficient SQL queries, especially when dealing with complex logic or hierarchical data[1](https://dev.mysql.com/doc/refman/8.4/en/with.html)[5](https://www.scaler.com/topics/mysql-tutorial/cte-in-mysql/)[7](https://www.bomberbot.com/mysql/how-to-use-mysql-common-table-expressions-with-example-queries/).**
+CTEs in MySQL are a powerful feature for writing cleaner, more maintainable, and more efficient SQL queries, especially when dealing with complex logic or hierarchical data[1](https://dev.mysql.com/doc/refman/8.4/en/with.html)[5](https://www.scaler.com/topics/mysql-tutorial/cte-in-mysql/)[7](https://www.bomberbot.com/mysql/how-to-use-mysql-common-table-expressions-with-example-queries/).
+
+---
+
+## 🔗 Navigation
+
+**📚 [← Back to Main Guide](README.md)**
+
+**Previous Topic:** [← Window Functions](Window%20Functions%20in%20SQL.md) | **Next Topic:** [Stored Procedures →](Stored%20Procedures%20in%20SQL.md)
+
+### 📖 Complete Learning Path:
+1. [SQL Fundamentals](SQL.md)
+2. [JOINS in SQL](JOINS%20in%20SQL.md)
+3. [String Functions](Strings%20in%20SQL.md)
+4. [Subqueries](Subqueries%20in%20SQL.md)
+5. [CASE Statements](CASE%20Statement%20in%20SQL.md)
+6. [UNION Operations](Unions%20in%20SQL.md)
+7. [Window Functions](Window%20Functions%20in%20SQL.md)
+8. **Common Table Expressions (CTEs)** ← *You are here*
+9. [Stored Procedures](Stored%20Procedures%20in%20SQL.md)
+10. [Temporary Tables](Temporary%20Tables%20in%20SQL.md)

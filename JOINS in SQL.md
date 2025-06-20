@@ -89,4 +89,22 @@ CROSS JOIN,Cartesian product of rows,Every combination of rows from both tables
 SELF JOIN,Table joined with itself,Compare rows within the same table
 ```
 
-Next-- [[Unions in SQL]]
+---
+
+## 🔗 Navigation
+
+**📚 [← Back to Main Guide](README.md)**
+
+**Previous Topic:** [← SQL Fundamentals](SQL.md) | **Next Topic:** [String Functions →](Strings%20in%20SQL.md)
+
+### 📖 Complete Learning Path:
+1. [SQL Fundamentals](SQL.md)
+2. **JOINS in SQL** ← *You are here*
+3. [String Functions](Strings%20in%20SQL.md)
+4. [Subqueries](Subqueries%20in%20SQL.md)
+5. [CASE Statements](CASE%20Statement%20in%20SQL.md)
+6. [UNION Operations](Unions%20in%20SQL.md)
+7. [Window Functions](Window%20Functions%20in%20SQL.md)
+8. [Common Table Expressions (CTEs)](Common%20Table%20Expressions%20(CTEs)%20in%20MySQL.md)
+9. [Stored Procedures](Stored%20Procedures%20in%20SQL.md)
+10. [Temporary Tables](Temporary%20Tables%20in%20SQL.md)

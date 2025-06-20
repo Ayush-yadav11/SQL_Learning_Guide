@@ -119,3 +119,23 @@ sql
 
 **In summary:**  
 A stored procedure in SQL is a powerful tool for encapsulating and reusing logic, automating tasks, and improving performance and security in database applications[1](https://www.w3schools.com/sql/sql_stored_procedures.asp)[2](https://www.datacamp.com/tutorial/sql-stored-procedure)[3](https://hightouch.com/sql-dictionary/sql-stored-procedures)[4](https://www.tutorialspoint.com/sql/sql-stored-procedures.htm).
+
+---
+
+## 🔗 Navigation
+
+**📚 [← Back to Main Guide](README.md)**
+
+**Previous Topic:** [← Common Table Expressions (CTEs)](Common%20Table%20Expressions%20(CTEs)%20in%20MySQL.md) | **Next Topic:** [Temporary Tables →](Temporary%20Tables%20in%20SQL.md)
+
+### 📖 Complete Learning Path:
+1. [SQL Fundamentals](SQL.md)
+2. [JOINS in SQL](JOINS%20in%20SQL.md)
+3. [String Functions](Strings%20in%20SQL.md)
+4. [Subqueries](Subqueries%20in%20SQL.md)
+5. [CASE Statements](CASE%20Statement%20in%20SQL.md)
+6. [UNION Operations](Unions%20in%20SQL.md)
+7. [Window Functions](Window%20Functions%20in%20SQL.md)
+8. [Common Table Expressions (CTEs)](Common%20Table%20Expressions%20(CTEs)%20in%20MySQL.md)
+9. **Stored Procedures** ← *You are here*
+10. [Temporary Tables](Temporary%20Tables%20in%20SQL.md)

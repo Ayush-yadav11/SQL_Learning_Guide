@@ -195,4 +195,22 @@ These features are fundamental for querying and analyzing data in SQL databases.
 - **Documentation:** Maintain up-to-date documentation for your schema and queries for future reference[3](https://vertabelo.com/blog/best-practices-for-database-design/)[6](https://www.integrate.io/blog/complete-guide-to-database-schema-design-guide/).
 - **Avoid Over-Normalization:** Normalize to reduce redundancy, but don't split data into too many tables unnecessarily, as this can complicate queries[4](https://www.sisense.com/blog/better-sql-schema/).
 
- NEXT--[[JOINS in SQL]]
+---
+
+## 🔗 Navigation
+
+**📚 [← Back to Main Guide](README.md)**
+
+**Next Topic:** [JOINS in SQL →](JOINS%20in%20SQL.md)
+
+### 📖 Complete Learning Path:
+1. **SQL Fundamentals** ← *You are here*
+2. [JOINS in SQL](JOINS%20in%20SQL.md)
+3. [String Functions](Strings%20in%20SQL.md)
+4. [Subqueries](Subqueries%20in%20SQL.md)
+5. [CASE Statements](CASE%20Statement%20in%20SQL.md)
+6. [UNION Operations](Unions%20in%20SQL.md)
+7. [Window Functions](Window%20Functions%20in%20SQL.md)
+8. [Common Table Expressions (CTEs)](Common%20Table%20Expressions%20(CTEs)%20in%20MySQL.md)
+9. [Stored Procedures](Stored%20Procedures%20in%20SQL.md)
+10. [Temporary Tables](Temporary%20Tables%20in%20SQL.md)

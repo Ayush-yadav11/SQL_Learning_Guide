@@ -73,4 +73,22 @@ This orders customers by city, but if the city is NULL, it orders by country ins
 - **Dynamic Sorting:** Customizing sort order.
 - **Data Cleaning:** Standardizing or replacing values[6](https://hightouch.com/sql-dictionary/sql-case). 
 
-Next --[[Subqueries in SQL]]
+---
+
+## 🔗 Navigation
+
+**📚 [← Back to Main Guide](README.md)**
+
+**Previous Topic:** [← Subqueries](Subqueries%20in%20SQL.md) | **Next Topic:** [UNION Operations →](Unions%20in%20SQL.md)
+
+### 📖 Complete Learning Path:
+1. [SQL Fundamentals](SQL.md)
+2. [JOINS in SQL](JOINS%20in%20SQL.md)
+3. [String Functions](Strings%20in%20SQL.md)
+4. [Subqueries](Subqueries%20in%20SQL.md)
+5. **CASE Statements** ← *You are here*
+6. [UNION Operations](Unions%20in%20SQL.md)
+7. [Window Functions](Window%20Functions%20in%20SQL.md)
+8. [Common Table Expressions (CTEs)](Common%20Table%20Expressions%20(CTEs)%20in%20MySQL.md)
+9. [Stored Procedures](Stored%20Procedures%20in%20SQL.md)
+10. [Temporary Tables](Temporary%20Tables%20in%20SQL.md)

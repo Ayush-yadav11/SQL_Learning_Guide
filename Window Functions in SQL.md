@@ -84,4 +84,22 @@ Window functions are available in all major SQL databases, including PostgreSQL,
 **In summary:**  
 Window functions are essential for advanced analytics in SQL, enabling you to perform calculations over sets of rows while preserving the detail of each row in your result set[1](https://mode.com/sql-tutorial/sql-window-functions/)[2](https://www.datacamp.com/cheat-sheet/sql-window-functions-cheat-sheet)[3](https://www.stratascratch.com/blog/the-ultimate-guide-to-sql-window-functions/)[5](https://www.coginiti.co/tutorials/intermediate/sql-window-functions/)[6](https://hightouch.com/sql-dictionary/sql-window-functions).
 
-Next -- [[Common Table Expressions (CTEs) in MySQL]]
+---
+
+## 🔗 Navigation
+
+**📚 [← Back to Main Guide](README.md)**
+
+**Previous Topic:** [← UNION Operations](Unions%20in%20SQL.md) | **Next Topic:** [Common Table Expressions (CTEs) →](Common%20Table%20Expressions%20(CTEs)%20in%20MySQL.md)
+
+### 📖 Complete Learning Path:
+1. [SQL Fundamentals](SQL.md)
+2. [JOINS in SQL](JOINS%20in%20SQL.md)
+3. [String Functions](Strings%20in%20SQL.md)
+4. [Subqueries](Subqueries%20in%20SQL.md)
+5. [CASE Statements](CASE%20Statement%20in%20SQL.md)
+6. [UNION Operations](Unions%20in%20SQL.md)
+7. **Window Functions** ← *You are here*
+8. [Common Table Expressions (CTEs)](Common%20Table%20Expressions%20(CTEs)%20in%20MySQL.md)
+9. [Stored Procedures](Stored%20Procedures%20in%20SQL.md)
+10. [Temporary Tables](Temporary%20Tables%20in%20SQL.md)
