@@ -1,3 +1,4 @@
+## Temporary Tables
 **Temporary tables** (temp tables) are special tables used to store data temporarily during the lifespan of a session or transaction. They are useful for holding intermediate results, simplifying complex queries, and improving performance by breaking down large operations into manageable steps[1](https://www.tutorialspoint.com/sql/sql-temporary-tables.htm)[5](https://milvus.io/ai-quick-reference/how-do-you-create-a-temporary-table-in-sql)[7](https://www.databasestar.com/sql-temp-table/).
 
 ---

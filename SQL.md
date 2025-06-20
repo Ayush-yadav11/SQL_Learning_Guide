@@ -1,3 +1,4 @@
+## SQL
 SQL (Structured Query Language) is the standard language for managing and manipulating relational databases. Below are essential notes covering SQL fundamentals, best practices, and key concepts relevant for students and professionals.
 
 ---

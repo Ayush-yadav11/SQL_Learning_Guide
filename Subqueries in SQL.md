@@ -1,3 +1,4 @@
+## Subqueries
 A **subquery** (also called a nested query or inner query) is a SQL query placed inside another query such as within a SELECT, INSERT, UPDATE, or DELETE statement. The outer query, which contains the subquery, is called the outer query or main query. Subqueries are always enclosed in parentheses and are executed first, with their results used by the outer query[1](https://hightouch.com/sql-dictionary/sql-subqueries)[2](https://www.programiz.com/sql/subquery)[5](https://dev.to/abhay_yt_52a8e72b213be229/understanding-sql-subqueries-a-complete-guide-with-examples-3jff)[6](https://www.w3resource.com/sql/subqueries/understanding-sql-subqueries.php)[7](https://www.tutorialspoint.com/sql/sql-sub-queries.htm)[8](https://www.dbvis.com/thetable/the-complete-guide-to-sql-subqueries/).
 
 ---

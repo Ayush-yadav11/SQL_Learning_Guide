@@ -1,3 +1,4 @@
+## Common Table Expressions
 A **Common Table Expression (CTE)** in MySQL is a named temporary result set defined within the execution scope of a single SQL statement. CTEs are particularly useful for simplifying complex queries, improving readability, and enabling recursive operations such as traversing hierarchical data structures[1](https://dev.mysql.com/doc/refman/8.4/en/with.html)[5](https://www.scaler.com/topics/mysql-tutorial/cte-in-mysql/)[6](https://www.mysqltutorial.org/mysql-basics/mysql-cte/)[7](https://www.bomberbot.com/mysql/how-to-use-mysql-common-table-expressions-with-example-queries/).
 
 ---

@@ -1,3 +1,4 @@
+## Window Functions
 **Window functions** in SQL perform calculations across a set of rows related to the current row, known as a "window." Unlike aggregate functions (like `SUM`, `AVG`, etc.), which collapse rows into a single result per group, window functions retain each row and add calculated values alongside the original data[1](https://mode.com/sql-tutorial/sql-window-functions/)[2](https://www.datacamp.com/cheat-sheet/sql-window-functions-cheat-sheet)[3](https://www.stratascratch.com/blog/the-ultimate-guide-to-sql-window-functions/)[5](https://www.coginiti.co/tutorials/intermediate/sql-window-functions/)[6](https://hightouch.com/sql-dictionary/sql-window-functions).
 
 ---

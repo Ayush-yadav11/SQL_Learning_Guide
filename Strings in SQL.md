@@ -1,3 +1,4 @@
+## Strings 
 MySQL provides a comprehensive set of string functions to manipulate, search, and analyze character string data. These functions are essential for formatting, cleaning, and extracting information from text fields in your database.
 
 ---

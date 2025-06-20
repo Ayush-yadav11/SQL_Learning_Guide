@@ -1,3 +1,4 @@
+## CASE Statement
 The `CASE` statement in SQL is a versatile conditional expression that allows you to perform logic similar to if-then-else statements in programming languages. It evaluates conditions and returns a result when the first condition is met. If no conditions are true, it can return a default value specified by the `ELSE` clause; otherwise, it returns NULL if `ELSE` is omitted[1](https://www.w3schools.com/sql/sql_case.asp)[2](https://mode.com/sql-tutorial/sql-case/)[3](https://www.programiz.com/sql/case)[5](https://webreference.com/sql/references/case/)[6](https://hightouch.com/sql-dictionary/sql-case).
 
 ---

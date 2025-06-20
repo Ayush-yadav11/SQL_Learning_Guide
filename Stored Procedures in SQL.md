@@ -1,3 +1,5 @@
+## Stored Procedures 
+
 A **stored procedure** in SQL is a saved collection of one or more SQL statements that can be executed as a single unit. Stored procedures are stored in the database and can be reused multiple times, making them ideal for automating repetitive tasks, encapsulating business logic, and improving performance and security[1](https://www.w3schools.com/sql/sql_stored_procedures.asp)[2](https://www.datacamp.com/tutorial/sql-stored-procedure)[3](https://hightouch.com/sql-dictionary/sql-stored-procedures)[4](https://www.tutorialspoint.com/sql/sql-stored-procedures.htm).
 
 ---

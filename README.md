@@ -25,7 +25,7 @@ This repository contains detailed notes and examples for learning SQL (Structure
 
 ### Advanced Topics
 - **[Window Functions](./Window%20Functions%20in%20SQL.md)** - ROW_NUMBER, RANK, LAG, LEAD, and more
-- **[Common Table Expressions (CTEs)](./Common%20Table%20Expressions%20(CTEs)%20in%20MySQL.md)** - Recursive and non-recursive CTEs
+- **[Common Table Expressions (CTEs)](Common%20Table%20Expressions%20(CTEs)%20in%20MySQL.md)** - Recursive and non-recursive CTEs
 - **[CASE Statements](./CASE%20Statement%20in%20SQL.md)** - Conditional logic in SQL
 - **[UNION Operations](./Unions%20in%20SQL.md)** - Combining result sets
 
@@ -85,7 +85,7 @@ sql/
 
 ### Advanced Level
 7. **[Window Functions](./Window%20Functions%20in%20SQL.md)** - Advanced analytical functions
-8. **[Common Table Expressions](./Common%20Table%20Expressions%20(CTEs)%20in%20MySQL.md)** - Complex query organization
+8. **[Common Table Expressions](Common%20Table%20Expressions%20(CTEs)%20in%20MySQL.md)** - Complex query organization
 9. **[Stored Procedures](./Stored%20Procedures%20in%20SQL.md)** - Reusable code blocks
 10. **[Temporary Tables](./Temporary%20Tables%20in%20SQL.md)** - Working with temporary data
 
